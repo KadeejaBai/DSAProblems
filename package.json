@@ -1,0 +1,22 @@
+{
+  "name": "dsaproblems",
+  "version": "1.0.0",
+  "description": "A compilation of solved DSA questions ideal for interview preparation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadeejaBai/DSAProblems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KadeejaBai/DSAProblems/issues"
+  },
+  "homepage": "https://github.com/KadeejaBai/DSAProblems#readme",
+  "dependencies": {
+    "eslint": "^9.25.1"
+  }
+}
